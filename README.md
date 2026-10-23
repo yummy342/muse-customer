@@ -6,7 +6,11 @@ Windows 桌面小工具：用店主提供的平台邮箱登录，自动连接美
 
 ## 下载
 
-两种拿法，内容一样：
+国内直连（推荐）：
+
+- https://aiglade.cn/dl/muse-customer-exe-20261024.zip
+
+GitHub 备用（大陆网络有时连不上）：
 
 - 本仓库里点 [release/muse-customer-exe-20261024.zip](release/muse-customer-exe-20261024.zip) → 右侧「Download raw file」；
 - 或到 [Releases](../../releases/latest) 页下载同一份。
