@@ -1,0 +1,29 @@
+# 凭据 / 交付件（绝不入库）
+config.json
+entitlement.json
+egress-auth.json
+static-auth.json
+ipwo-auth.json
+muse_hop_key
+pool.json
+session.json
+used.json
+accounts.json
+
+# 运行时状态
+_usage.json
+_hop_state.json
+_last_exit.json
+_static_src.json
+upstream.json
+browserprofile/
+
+# 杂项
+*.log
+*.tmp
+*.bak
+__pycache__/
+
+# 本地上传辅助（不提交）
+UPLOAD.md
+release/
