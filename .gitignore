@@ -26,4 +26,3 @@ __pycache__/
 
 # 本地上传辅助（不提交）
 UPLOAD.md
-release/
